@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Robert
-- 💡 I'm interested in SWE, EE, Data
+- 💡 I'm interested in DS/ML, Optimization, and Data Engineering 
 - 📖 I’m currently studying EECS⚡️ & Data Science📊 at UC Berkeley
 - 📫 How to reach me by email: robertian23@berkeley.edu
 - ⛰️ Hobbies: biking, hiking, beach, traveling
